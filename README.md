@@ -121,8 +121,7 @@
    <p>Umur: {{ $umur }}</p>
    <p>Alamat: {{ $alamat }}</p>
    ```
-   **Tampilan Biodata:**
-   ![Biodata](public/bio.png)
+ 
 
 ---
 **Selesai!** 🚀
